@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on umuhora application
+- 🔭 I’m currently working on eFeza E-Wallet application
 - 🌱 I’m currently learning Machine Learning with wearable device
-- 🤔 I’m looking for help with applications development using django and django rest framework
-- 💬 Ask me about python, webscraping
+- 🤔 I’m looking for help for Integrated Circuit and electronics skills
+- 💬 Ask me about python, webscraping, web application , Android & iOS 
 - 📫 How to reach me: nduwimanaguymich@gmail.com
 - ⚡ Fun fact: isombe
 
@@ -15,12 +15,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** [JavaScript, Python, Java, etc.]
-- **Frontend Development:** [React, Angular, Vue.js, etc.]
-- **Backend Development:** [Node.js, Django, Spring Boot, etc.]
-- **Databases:** [MySQL, MongoDB, PostgreSQL, etc.]
-- **DevOps:** [Docker, Kubernetes, Jenkins, etc.]
-- **Others:** [Git, GitHub Actions, VS Code, etc.]
+- **Languages:** [JavaScript, Python, Java, Dart]
+- **Frontend Development:** [React, Angular, Vue.js]
+- **Backend Development:** [Node.js, Django, Spring Boot, FastAPI]
+- **Databases:** [MySQL, MongoDB, PostgreSQL, SQLITE3]
+- **DevOps:** [Docker, Kubernetes]
+- **Others:** [Git, GitHub Actions, VS Code]
 
 ## 📈 GitHub Stats
 
